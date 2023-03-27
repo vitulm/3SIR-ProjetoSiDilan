@@ -1,0 +1,1 @@
+# Esta pasta deve ser usada para guardar a lista de requisitos não atendidos do projeto que ficaram para uma próxima versão
